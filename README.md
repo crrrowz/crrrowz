@@ -138,19 +138,6 @@ With nearly **5 years** of hands-on experience, I've built and managed several p
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crrrowz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrrowz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crrrowz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</p>
-
----
-
 ### 🌍 Connect With Me
 
 <p align="center">
