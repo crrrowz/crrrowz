@@ -44,7 +44,6 @@ With nearly **5 years** of hands-on experience, I've built and managed several p
 - 🔭 Working on **AI-driven software & automation tools**
 - 🌱 Learning **Mathematical Foundations of AI**
 - 💬 Ask me about **Python, C++, Go, System Design & AI**
-- 📍 Based in **Al-Nasariya, Dhi Qar, Iraq**
 - ⚡ Started programming at age **14** and never stopped!
 
 <br clear="right"/>
