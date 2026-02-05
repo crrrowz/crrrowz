@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/hassaneinh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/@cs.crrowz" target="_blank">
+  <a href="https://www.youtube.com/@cs_crrowz" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="mailto:hassaneinh@yahoo.com">
@@ -148,7 +148,7 @@ With nearly **5 years** of hands-on experience, I've built and managed several p
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/@cs.crrowz" target="_blank">
+  <a href="https://www.youtube.com/@cs_crrowz" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   &nbsp;
